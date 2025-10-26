@@ -1,0 +1,5 @@
+{
+  "name": "Quantum-Accelerated Rendering Unit Simulation",
+  "description": "A conceptual simulation of a hybrid quantum-classical computing system. It demonstrates how automated, high-coherence nuclear spin qubits can reduce the computational load and energy consumption of classical GPUs running complex shaders for ray tracing.",
+  "requestFramePermissions": []
+}
